@@ -2,6 +2,7 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import {Home, UserDashboard, About, Contact, Loans, Login, SignUp, Admin, LoanHistory, NewUserForm, UserProfile} from './pages';
 import { LoanApplications } from './userpages';
 
+
 function App() {
   
   const ROUTE_PATHS = {
