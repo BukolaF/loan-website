@@ -1,5 +1,5 @@
 import React from 'react';
-import {Hero, Navbar, Footer} from '../components/';
+import {Hero, Navbar, Footer} from '../components';
 import { Features } from '../constant';
 
 

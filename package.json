@@ -1,5 +1,5 @@
 {
-  "homepage": "http://BukolaF.github.io/loan_website",
+  "homepage": "http://BukolaF.github.io/loan-website",
   "name": "loan-website",
   "version": "0.1.0",
   "private": true,
@@ -47,8 +47,7 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.4.1",
-    "gh-pages": "^6.1.1"
-
+    "gh-pages": "^6.1.1",
+    "tailwindcss": "^3.4.1"
   }
 }
